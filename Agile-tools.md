@@ -1,5 +1,5 @@
 # AGILE DEVELOPMENT TOOLS
-<img src="https://luis-goncalves.com/content/uploads/2017/02/what-is-agile-agile-what-is-agile-methodology-agile-methodology_luis-goncalves.png" width="80%">
+<img src="https://luis-goncalves.com/content/uploads/2017/02/what-is-agile-agile-what-is-agile-methodology-agile-methodology_luis-goncalves.png" width="60%">
 
 ## Scrum
 Scrum is a very popular framework that is used to implement Agile development. Scrum is used by everyone from the FBI to marketing agencies. Whenever a product is being produced, such as software or a car, scrum can be a handy tool to save time and get the work done.
